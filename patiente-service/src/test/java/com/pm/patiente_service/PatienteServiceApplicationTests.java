@@ -1,0 +1,13 @@
+package com.pm.patiente_service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PatienteServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
